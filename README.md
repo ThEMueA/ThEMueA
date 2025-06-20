@@ -1,11 +1,19 @@
-## Hi there 👋
 
-<p>git comit push --f</p>
+
+# Git Command Animation
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2CF7BD&background=000000&center=true&vCenter=true&width=435&lines=git+commit+push+--force" alt="Typing animation of git command">
+ git comit push --f
+</p>
+
 
 
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_icons=true)
+
+
 
 
 
