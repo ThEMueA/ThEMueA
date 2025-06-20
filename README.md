@@ -5,14 +5,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_icons=true)
 
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for a jobb...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: 
--  git commit push --f 
+-  ❗🚨 'git commit push --f' 
 
 
 
@@ -30,8 +29,6 @@
 
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=azure,arduino,docker)](https://skillicons.dev)
-
-
 
 
 <!--
