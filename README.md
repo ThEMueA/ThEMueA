@@ -36,6 +36,9 @@ tech stuff.
 ### Testing:
 [![Testing](https://skillicons.dev/icons?i=jest,selenium,postman)](https://skillicons.dev)
 
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=ruby,scala,haskell,elixir)](https://skillicons.dev)
+
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=azure,arduino,docker)](https://skillicons.dev)
 
