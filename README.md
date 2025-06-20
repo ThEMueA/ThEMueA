@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=5000&pause=700&color=2CF7BD&background=FFFFFF&center=true&vCenter=true&width=435&lines=git+commit+push+--f" ">
 </p>
 
