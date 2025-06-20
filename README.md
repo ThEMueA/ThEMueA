@@ -6,8 +6,8 @@ I'm a Full-stack Dev and Software Engineering student in @University of Plovdiv.
 
 For me.
 
-- 🔭 I’m currently working on system automation.
-- 🌱 I’m currently learning Distributed apps.
+
+- 🌱 I’m currently working on system automation.
 - 👷 I’m looking for a job.
 - 💬 Ask me about it.
 - 📫 How to reach me-LinkedIn: 
