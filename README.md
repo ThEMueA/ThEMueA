@@ -1,18 +1,19 @@
-# Hi there 👋
+# @ThEMueA Hi there 👋
 
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_icons=true)
 
 
- git commit push --f
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for a jobb...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+-  git commit push --f 
+
 
 
 ### Front-End:
