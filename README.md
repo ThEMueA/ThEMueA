@@ -1,14 +1,13 @@
 ## Hi there 👋
-git comit push --f
+
+<p>git comit push --f</p>
 
 
-![Contribution Snake](https://raw.githubusercontent.com/ThEMueA/ThEMueA/output/github-contribution-grid-snake.svg)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_icons=true)
 
-## 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThEMueA&layout=compact)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
