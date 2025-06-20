@@ -7,15 +7,12 @@ I'm Full-stack Dev and Software Engineering student in @University of Plovdiv.
 
 
 - 🔭 I’m currently working on system automation.
-- 🌱 I’m currently learning 
-- 🤔 I’m looking for a jobb.
+- 🌱 I’m currently learning Distributed apps.
+- 👷 I’m looking for a jobb.
 - 💬 Ask me about it.
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - ⚡ Fun fact: 
 -  ❗🚨 'git commit push --f' /*/ ∫πsin(√x)e√x√x🚨 ❗ ❗
-
-
-
 
 ### Front-End:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular)](https://skillicons.dev)
