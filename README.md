@@ -1,4 +1,5 @@
 # @ThEMueA.. Hii 👋
+I'm Full-stack Dev and Software Engineering student in @University of Plovdiv.
 
 
 ## 📊 Stats
