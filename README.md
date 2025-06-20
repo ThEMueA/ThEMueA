@@ -10,7 +10,7 @@ I'm Full-stack Dev and Software Engineering student in @University of Plovdiv.
 - 💬 Ask me about it.
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
--  ❗🚨 'git commit push --f' /*/ ∫πsin(√x)e√x√x🚨 ❗ ❗
+-  ❗🚨 𝕘𝕚𝕥 𝕔𝕠𝕞𝕞𝕚𝕥 𝕡𝕦𝕤𝕙 --𝕗' /*/ ∫π𝕤𝕚𝕟(√𝕩)𝕖√𝕩√𝕩🚨 ❗ ❗
 
 ### Front-End:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular)](https://skillicons.dev)
