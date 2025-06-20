@@ -39,6 +39,9 @@ tech stuff.
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=ruby,scala,haskell,elixir)](https://skillicons.dev)
 
+### Tools:
+[![Design](https://skillicons.dev/icons?i=xd,sketch,illustrator,photoshop)](https://skillicons.dev)
+
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=azure,arduino,docker)](https://skillicons.dev)
 
