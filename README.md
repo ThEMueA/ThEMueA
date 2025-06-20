@@ -1,5 +1,5 @@
 # @ThEMueA.. Hii 👋
-I'm Full-stack Dev and Software Engineering student in @University of Plovdiv.
+I'm a Full-stack Dev and Software Engineering student in @University of Plovdiv.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&theme=vue-dark&bg_color=000000&title_color=FFD700&show_icons=true&hide_border=true&count_private=true)
