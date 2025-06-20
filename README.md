@@ -3,7 +3,7 @@ I'm Full-stack Dev and Software Engineering student in @University of Plovdiv.
 
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 - 🔭 I’m currently working on system automation.
