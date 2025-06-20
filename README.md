@@ -4,7 +4,7 @@ I'm a Full-stack Dev and Software Engineering student in @University of Plovdiv.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&theme=vue-dark&bg_color=000000&title_color=FFD700&show_icons=true&hide_border=true&count_private=true)
 
-# For me.
+### For me.
 
 
 - 🌱 I’m currently working on system automation.
@@ -14,7 +14,7 @@ I'm a Full-stack Dev and Software Engineering student in @University of Plovdiv.
 - ⚡ Fun fact: 
 -  ❗🚨 𝕘𝕚𝕥 𝕔𝕠𝕞𝕞𝕚𝕥 𝕡𝕦𝕤𝕙 --𝕗' /*/ ∫π𝕤𝕚𝕟(√𝕩)𝕖√𝕩√𝕩🚨 ❗ ❗
 
-# tech.
+### tech.
 
 ### Front-End:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular)](https://skillicons.dev)
