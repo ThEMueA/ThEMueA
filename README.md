@@ -1,10 +1,9 @@
 
 
-# Git Command Animation
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2CF7BD&background=000000&center=true&vCenter=true&width=435&lines=git+commit+push+--force" alt="Typing animation of git command">
- git comit push --f
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2CF7BD&background=000000&center=true&vCenter=true&width=435&lines=git+commit+push+--f" ">
 </p>
 
 
