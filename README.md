@@ -8,7 +8,7 @@ For me.
 
 - 🔭 I’m currently working on system automation.
 - 🌱 I’m currently learning Distributed apps.
-- 👷 I’m looking for a jobb.
+- 👷 I’m looking for a job.
 - 💬 Ask me about it.
 - 📫 How to reach me-LinkedIn: 
 - ⚡ Fun fact: 
