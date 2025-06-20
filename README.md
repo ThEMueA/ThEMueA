@@ -30,6 +30,12 @@ tech stuff.
 ### Game dev:
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal)](https://skillicons.dev)
 
+### Databases:
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase)](https://skillicons.dev)
+
+### Testing:
+[![Testing](https://skillicons.dev/icons?i=jest,selenium,postman)](https://skillicons.dev)
+
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=azure,arduino,docker)](https://skillicons.dev)
 
