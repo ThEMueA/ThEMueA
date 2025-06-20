@@ -2,6 +2,8 @@
 git comit push --f
 
 
+![Contribution Snake](https://raw.githubusercontent.com/ThEMueA/ThEMueA/output/github-contribution-grid-snake.svg)
+
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_icons=true)
 
