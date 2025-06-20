@@ -6,13 +6,14 @@ I'm Full-stack Dev and Software Engineering student in @University of Plovdiv.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_icons=true)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for a jobb...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on system automation.
+- 🌱 I’m currently learning 
+- 🤔 I’m looking for a jobb.
+- 💬 Ask me about it.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: 
--  ❗🚨 'git commit push --f' 
+-  ❗🚨 'git commit push --f' /*/ ∫πsin(√x)e√x√x🚨 ❗ ❗
+
 
 
 
