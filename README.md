@@ -5,7 +5,7 @@ I'm Full-stack Dev and Software Engineering student in @University of Plovdiv.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&theme=vue-dark&bg_color=000000&title_color=FFD700&show_icons=true&hide_border=true&count_private=true)
 
 For me.
-<div>
+
 - 🔭 I’m currently working on system automation.
 - 🌱 I’m currently learning Distributed apps.
 - 👷 I’m looking for a jobb.
@@ -13,11 +13,11 @@ For me.
 - 📫 How to reach me-LinkedIn: 
 - ⚡ Fun fact: 
 -  ❗🚨 𝕘𝕚𝕥 𝕔𝕠𝕞𝕞𝕚𝕥 𝕡𝕦𝕤𝕙 --𝕗' /*/ ∫π𝕤𝕚𝕟(√𝕩)𝕖√𝕩√𝕩🚨 ❗ ❗
- </div>
+
 
  
 tech stuff.
-<div>
+
 ### Front-End:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular)](https://skillicons.dev)
 
@@ -32,7 +32,7 @@ tech stuff.
 
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=azure,arduino,docker)](https://skillicons.dev)
-</div>
+
 
 <!--
 **ThEMueA/ThEMueA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
