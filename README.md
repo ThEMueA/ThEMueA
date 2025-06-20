@@ -9,6 +9,26 @@ git comit push --f
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Front-End:
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular)](https://skillicons.dev)
+
+### Back-End:
+[![My Skills](https://skillicons.dev/icons?i=net,spring,go,mysql,postgres)](https://skillicons.dev)
+
+### Mobile:
+[![My Skills](https://skillicons.dev/icons?i=net,java,kotlin,androidstudio)](https://skillicons.dev)
+
+### Game dev:
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal)](https://skillicons.dev)
+
+### Others:
+[![My Skills](https://skillicons.dev/icons?i=azure,arduino,docker)](https://skillicons.dev)
+
+
+
+## 🏆 Achievements
+
+
 
 
 <!--
