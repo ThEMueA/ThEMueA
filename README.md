@@ -2,7 +2,11 @@
 git comit push --f
 
 
-[![ThEMueA's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThEMueA&show_icons=true)
+
+## 🌟 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThEMueA&layout=compact)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
