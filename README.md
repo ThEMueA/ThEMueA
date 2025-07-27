@@ -10,7 +10,7 @@ I'm a Full-stack Dev and Software Engineering student in @University of Plovdiv.
 - 🌱 I’m currently working on system automation.
 - 👷 I’m looking for a job.
 - 💬 Ask me about it.
-- 📫 How to reach me
+- 📫 How to reach me<br>
 //  [<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="90" height="100" >](https://www.linkedin.com/in/%D0%B8%D0%BB%D0%B8%D1%8F%D0%BD-%D0%B8%D0%BB%D1%87%D0%B5%D0%B2-022361372/)
 - ⚡ Fun fact: 
 -  ❗🚨 𝕘𝕚𝕥 𝕔𝕠𝕞𝕞𝕚𝕥 𝕡𝕦𝕤𝕙 --𝕗' /*/ ∫π𝕤𝕚𝕟(√𝕩)𝕖√𝕩√𝕩🚨 ❗ ❗
