@@ -23,7 +23,7 @@ I'm a Full-stack Dev and Software Engineering student in @University of Plovdiv.
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular)](https://skillicons.dev)
 
 ### Back-End:
-[![My Skills](https://skillicons.dev/icons?i=net,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,spring,mysql,postgres,room)](https://skillicons.dev)
 
 ### Mobile:
 [![My Skills](https://skillicons.dev/icons?i=net,java,kotlin,androidstudio)](https://skillicons.dev)
