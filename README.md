@@ -36,7 +36,7 @@ I'm a Full-stack Dev and Software Engineering student in @University of Plovdiv.
 
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=azure,arduino,docker)](https://skillicons.dev) [![Design](https://skillicons.dev/icons?i=xd,photoshop)](https://skillicons.dev) [![Languages]
-(https://skillicons.dev/icons?i=scala,haskell)] [![Testing](https://skillicons.dev/icons?i=jest,selenium,postman)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=scala,haskell)](https://skillicons.dev) [![Testing](https://skillicons.dev/icons?i=jest,selenium,postman)](https://skillicons.dev)
 
 
 
