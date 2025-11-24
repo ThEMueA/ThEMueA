@@ -11,7 +11,7 @@ I'm a Full-stack Dev and third year Software Engineering student in @University 
 - 👷 I’m looking for a job.
 - 💬 Ask me about it.
 - ⚡ Fun fact: 
--  ❗🚨 𝕘𝕚𝕥 𝕔𝕠𝕞𝕞𝕚𝕥 𝕡𝕦𝕤𝕙 --𝕗' /*/ ∫π𝕤𝕚𝕟(√𝕩)𝕖√𝕩√𝕩🚨 ❗ ❗
+-  ❗🚨𝕟𝕖𝕧𝕖𝕣: 𝕘𝕚𝕥 𝕔𝕠𝕞𝕞𝕚𝕥 𝕡𝕦𝕤𝕙 --𝕗🚨 ❗ ❗
 -   📫 How to reach me //<br>
    [<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="90" height="100"  >](https://www.linkedin.com/in/iliyan-ilchev-022361372/)
 
