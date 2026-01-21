@@ -20,7 +20,7 @@ I'm a Full-stack Dev and third year Software Engineering student in @University 
 
 
 ### Front-End:
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js)](https://skillicons.dev)
 
 ### Back-End:
 [![My Skills](https://skillicons.dev/icons?i=net,spring,mysql,postgres,room)](https://skillicons.dev)
